@@ -1,0 +1,26 @@
+{
+  "author": "Nolly#0001",
+  "bugs": {
+    "url": "https://github.com/TheNolle/NoSleep/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/TheNolle/NoSleep#readme",
+  "keywords": [
+    "nolly",
+    "sleep"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "nosleep",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNolle/NoSleep.git"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "androidjs": "^2.0.6"
+  }
+}
