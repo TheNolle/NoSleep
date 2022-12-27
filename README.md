@@ -6,4 +6,4 @@ Having troubles sleeping lately? Need to relax a bit and exteriorise some stress
 ---
 
 
-#### App based on my [ElectronJS Template App](https://github.com/TheNolle/ElectronJS-Template-App)
+#### App based on my [ElectronJS App Template](https://github.com/TheNolle/ElectronJS-Template-App)
